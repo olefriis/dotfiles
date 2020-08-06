@@ -1,0 +1,23 @@
+tap "homebrew/cask"
+
+brew "awscli"
+brew "jq"
+brew "nodenv"
+brew "ouchxp/nodenv/nodenv-nvmrc" # Not alphabetically sorted, but it's nodenv-related :-)
+brew "nodenv/nodenv/nodenv-aliases"
+brew "ruby-build"
+brew "rbenv"
+brew "ripgrep"
+brew "tldr"
+brew "tig"
+
+cask "1password"
+cask "docker"
+cask "caffeine"
+cask "google-chrome"
+cask "iterm2"
+cask "keybase"
+cask "rectangle"
+cask "virtualbox"
+cask "viscosity"
+cask "visual-studio-code"
