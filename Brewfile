@@ -7,6 +7,7 @@ brew "ouchxp/nodenv/nodenv-nvmrc" # Not alphabetically sorted, but it's nodenv-r
 brew "nodenv/nodenv/nodenv-aliases"
 brew "ruby-build"
 brew "rbenv"
+brew "redis"
 brew "ripgrep"
 brew "tldr"
 brew "tig"
